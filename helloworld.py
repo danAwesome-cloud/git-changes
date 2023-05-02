@@ -1,1 +1,3 @@
-print('Hello world')
+print('Hello world updated')
+name = 'julliet'
+print(name)
